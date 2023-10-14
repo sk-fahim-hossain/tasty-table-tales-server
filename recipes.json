@@ -1,0 +1,274 @@
+[
+    {
+        "id": 1,
+        "chefRecipes": [
+            {
+                "recipeId": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": ["Spaghetti", "Eggs", "Pancetta", "Parmesan Cheese", "Black Pepper"],
+                "cookingMethods": [
+                    {"step": "Boil spaghetti", "description": "Cook spaghetti until al dente."},
+                    {"step": "Fry pancetta", "description": "Crisp up pancetta in a pan."},
+                    {"step": "Mix eggs and cheese", "description": "Whisk eggs and mix with Parmesan cheese."},
+                    {"step": "Combine", "description": "Toss spaghetti and pancetta in egg mixture."},
+                    {"step": "Add pepper", "description": "Season with freshly ground black pepper."}
+                ],
+                "rating": 4.7
+            },
+            {
+                "recipeId": 2,
+                "name": "Chicken Alfredo",
+                "ingredients": ["Chicken Breast", "Fettuccine Pasta", "Heavy Cream", "Parmesan Cheese", "Garlic"],
+                "cookingMethods": [
+                    {"step": "Sear chicken", "description": "Sear chicken until golden and cooked through."},
+                    {"step": "Cook pasta", "description": "Boil pasta until tender."},
+                    {"step": "Make creamy sauce", "description": "Create a creamy sauce with heavy cream and garlic."},
+                    {"step": "Combine", "description": "Mix cooked pasta and creamy sauce."},
+                    {"step": "Add garlic", "description": "Season with minced garlic."}
+                ],
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefRecipes": [
+            {
+                "recipeId": 4,
+                "name": "Beef Stir-Fry",
+                "ingredients": ["Beef Strips", "Bell Peppers", "Broccoli", "Soy Sauce", "Ginger"],
+                "cookingMethods": [
+                    {"step": "Marinate beef", "description": "Marinate beef strips with soy sauce and ginger."},
+                    {"step": "Stir-fry with veggies", "description": "Quickly stir-fry beef with bell peppers and broccoli."},
+                    {"step": "Add soy sauce", "description": "Drizzle with soy sauce for flavor."},
+                    {"step": "Garnish with ginger", "description": "Garnish with fresh ginger slices."},
+                    {"step": "Serve", "description": "Serve hot and enjoy the stir-fry."}
+                ],
+                "rating": 4.6
+            },
+            {
+                "recipeId": 5,
+                "name": "Vegetable Curry",
+                "ingredients": ["Mixed Vegetables", "Coconut Milk", "Curry Paste", "Rice", "Cilantro"],
+                "cookingMethods": [
+                    {"step": "Cook veggies in curry", "description": "Simmer mixed vegetables in a flavorful curry sauce."},
+                    {"step": "Simmer with coconut milk", "description": "Add creamy coconut milk and let it simmer."},
+                    {"step": "Serve over rice", "description": "Serve the curry over a bed of rice."},
+                    {"step": "Garnish with cilantro", "description": "Garnish with fresh cilantro leaves."},
+                    {"step": "Enjoy", "description": "Savor the delicious vegetable curry."}
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeId": 6,
+                "name": "Lemon Butter Shrimp",
+                "ingredients": ["Shrimp", "Lemon", "Butter", "Garlic", "Parsley"],
+                "cookingMethods": [
+                    {"step": "Sauté shrimp", "description": "Sauté shrimp until they turn pink."},
+                    {"step": "Make lemon butter sauce", "description": "Prepare a tangy lemon butter sauce."},
+                    {"step": "Add garlic and parsley", "description": "Add minced garlic and fresh parsley to the sauce."},
+                    {"step": "Serve with lemon wedges", "description": "Garnish with lemon wedges."},
+                    {"step": "Delight in the flavors", "description": "Enjoy the delightful flavors of lemon butter shrimp."}
+                ],
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chefRecipes": [
+            {
+                "recipeId": 7,
+                "name": "Mushroom Risotto",
+                "ingredients": ["Arborio Rice", "Mushrooms", "Chicken Broth", "White Wine", "Parmesan Cheese"],
+                "cookingMethods": [
+                    {"step": "Sauté mushrooms", "description": "Sauté mushrooms until they release their juices."},
+                    {"step": "Cook rice with broth and wine", "description": "Slowly cook Arborio rice with chicken broth and white wine."},
+                    {"step": "Stir in cheese", "description": "Stir in Parmesan cheese for creaminess."},
+                    {"step": "Serve hot", "description": "Serve hot and enjoy the rich mushroom risotto."}
+                ],
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chefRecipes": [
+            {
+                "recipeId": 10,
+                "name": "Classic Tiramisu",
+                "ingredients": ["Ladyfingers", "Espresso Coffee", "Mascarpone Cheese", "Cocoa Powder", "Egg Yolks"],
+                "cookingMethods": [
+                    {"step": "Dip ladyfingers", "description": "Dip ladyfingers in freshly brewed espresso coffee."},
+                    {"step": "Layer with mascarpone mixture", "description": "Layer dipped ladyfingers with creamy mascarpone mixture."},
+                    {"step": "Dust with cocoa", "description": "Dust the top with cocoa powder for a rich finish."},
+                    {"step": "Chill", "description": "Chill the tiramisu for a delightful dessert."},
+                    {"step": "Savor", "description": "Savor the classic tiramisu."}
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeId": 11,
+                "name": "Homemade Pizza",
+                "ingredients": ["Pizza Dough", "Tomato Sauce", "Mozzarella Cheese", "Pepperoni", "Bell Peppers"],
+                "cookingMethods": [
+                    {"step": "Roll out dough", "description": "Roll out pizza dough into your desired shape."},
+                    {"step": "Spread sauce and cheese", "description": "Spread tomato sauce and mozzarella cheese on the dough."},
+                    {"step": "Add toppings", "description": "Add your favorite toppings, like pepperoni and bell peppers."},
+                    {"step": "Bake until golden", "description": "Bake until the pizza is golden and bubbling."},
+                    {"step": "Slice and savor", "description": "Slice and savor your homemade pizza."}
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipeId": 12,
+                "name": "Grilled Steak",
+                "ingredients": ["Ribeye Steak", "Olive Oil", "Rosemary", "Garlic", "Salt and Pepper"],
+                "cookingMethods": [
+                    {"step": "Marinate steak", "description": "Marinate the ribeye steak with olive oil, rosemary, garlic, and season with salt and pepper."},
+                    {"step": "Grill to desired doneness", "description": "Grill the steak to your preferred level of doneness."},
+                    {"step": "Rest with rosemary", "description": "Let the steak rest with a sprig of rosemary and minced garlic."},
+                    {"step": "Season with salt and pepper", "description": "Season the steak with a pinch of salt and pepper."},
+                    {"step": "Enjoy", "description": "Enjoy the delicious grilled steak."}
+                ],
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chefRecipes": [
+            {
+                "recipeId": 13,
+                "name": "Salmon with Lemon Butter",
+                "ingredients": ["Salmon Fillet", "Lemon", "Butter", "Garlic", "Dill"],
+                "cookingMethods": [
+                    {"step": "Sear salmon", "description": "Sear salmon fillet until it's beautifully browned."},
+                    {"step": "Make lemon butter sauce", "description": "Prepare a tangy lemon butter sauce."},
+                    {"step": "Add garlic and dill", "description": "Add minced garlic and fresh dill to the sauce."},
+                    {"step": "Serve with lemon", "description": "Serve with a slice of lemon for extra freshness."},
+                    {"step": "Enjoy", "description": "Enjoy the exquisite flavors of salmon with lemon butter."}
+                ],
+                "rating": 4.9
+            },
+            {
+                "recipeId": 14,
+                "name": "Penne alla Vodka",
+                "ingredients": ["Penne Pasta", "Vodka Sauce", "Heavy Cream", "Parmesan Cheese", "Basil"],
+                "cookingMethods": [
+                    {"step": "Cook pasta", "description": "Cook penne pasta until al dente."},
+                    {"step": "Simmer vodka sauce and cream", "description": "Simmer vodka sauce and heavy cream until creamy."},
+                    {"step": "Stir in cheese", "description": "Stir in Parmesan cheese for added richness."},
+                    {"step": "Garnish with basil", "description": "Garnish with fresh basil leaves."},
+                    {"step": "Savor", "description": "Savor the delicious Penne alla Vodka."}
+                ],
+                "rating": 4.6
+            },
+            {
+                "recipeId": 15,
+                "name": "Garlic Butter Shrimp Pasta",
+                "ingredients": ["Shrimp", "Linguine Pasta", "Butter", "Garlic", "Parsley"],
+                "cookingMethods": [
+                    {"step": "Sauté shrimp", "description": "Sauté shrimp until pink and tender."},
+                    {"step": "Cook pasta", "description": "Boil linguine pasta until al dente."},
+                    {"step": "Make garlic butter sauce", "description": "Prepare a luscious garlic butter sauce."},
+                    {"step": "Combine and garnish with parsley", "description": "Combine pasta, shrimp, and garnish with fresh parsley."},
+                    {"step": "Enjoy", "description": "Enjoy the flavors of garlic butter shrimp pasta."}
+                ],
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chefRecipes": [
+            {
+                "recipeId": 16,
+                "name": "Beef Tacos",
+                "ingredients": ["Ground Beef", "Taco Shells", "Lettuce", "Tomatoes", "Salsa"],
+                "cookingMethods": [
+                    {"step": "Brown beef", "description": "Brown ground beef until fully cooked."},
+                    {"step": "Prepare taco shells", "description": "Heat taco shells in the oven."},
+                    {"step": "Assemble with toppings", "description": "Fill taco shells with beef, lettuce, tomatoes, and salsa."},
+                    {"step": "Serve with salsa", "description": "Serve with extra salsa for dipping."},
+                    {"step": "Enjoy", "description": "Enjoy your homemade beef tacos."}
+                ],
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "chefRecipes": [
+            {
+                "recipeId": 19,
+                "name": "Lemon Garlic Shrimp",
+                "ingredients": ["Shrimp", "Lemon", "Garlic", "Butter", "Parsley"],
+                "cookingMethods": [
+                    {"step": "Sauté shrimp", "description": "Sauté shrimp until they turn pink."},
+                    {"step": "Add garlic and butter", "description": "Add minced garlic and butter for extra flavor."},
+                    {"step": "Squeeze lemon", "description": "Squeeze fresh lemon juice over the shrimp."},
+                    {"step": "Garnish with parsley", "description": "Garnish with fresh parsley leaves."},
+                    {"step": "Delight in the flavors", "description": "Delight in the exquisite flavors of lemon garlic shrimp."}
+                ],
+                "rating": 4.9
+            },
+            {
+                "recipeId": 20,
+                "name": "Grilled Chicken Caesar Salad",
+                "ingredients": ["Chicken Breast", "Romaine Lettuce", "Caesar Dressing", "Croutons", "Parmesan Cheese"],
+                "cookingMethods": [
+                    {"step": "Grill chicken", "description": "Grill chicken breast until cooked and slightly charred."},
+                    {"step": "Toss with lettuce and dressing", "description": "Toss grilled chicken, romaine lettuce, and Caesar dressing."},
+                    {"step": "Top with croutons and cheese", "description": "Top with croutons and Parmesan cheese."},
+                    {"step": "Enjoy a classic salad", "description": "Enjoy a classic Caesar salad with grilled chicken."}
+                ],
+                "rating": 4.7
+            },
+            {
+                "recipeId": 21,
+                "name": "Garlic Butter Lobster Tails",
+                "ingredients": ["Lobster Tails", "Garlic Butter", "Lemon", "Parsley", "Salt and Pepper"],
+                "cookingMethods": [
+                    {"step": "Split lobster tails", "description": "Split lobster tails for easy cooking."},
+                    {"step": "Baste with garlic butter", "description": "Baste with garlic butter for rich flavor."},
+                    {"step": "Bake until tender", "description": "Bake until lobster tails are tender and succulent."},
+                    {"step": "Garnish with lemon and parsley", "description": "Garnish with lemon and fresh parsley."},
+                    {"step": "Indulge in luxury", "description": "Indulge in the luxury of garlic butter lobster tails."}
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "chefRecipes": [
+            {
+                "recipeId": 22,
+                "name": "Margherita Pizza",
+                "ingredients": ["Pizza Dough", "Tomatoes", "Fresh Mozzarella", "Basil", "Olive Oil"],
+                "cookingMethods": [
+                    {"step": "Roll out dough", "description": "Roll out pizza dough into a round shape."},
+                    {"step": "Layer with tomatoes and mozzarella", "description": "Layer with sliced tomatoes and fresh mozzarella."},
+                    {"step": "Bake until cheese melts", "description": "Bake until the cheese is bubbly and golden."},
+                    {"step": "Garnish with basil and olive oil", "description": "Garnish with fresh basil and a drizzle of olive oil."},
+                    {"step": "Savor a classic pizza", "description": "Savor the classic flavors of Margherita pizza."}
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipeId": 24,
+                "name": "Creamy Chicken Alfredo",
+                "ingredients": ["Chicken Breast", "Fettuccine Pasta", "Alfredo Sauce", "Parmesan Cheese", "Garlic"],
+                "cookingMethods": [
+                    {"step": "Sear chicken", "description": "Sear chicken breast until golden and cooked through."},
+                    {"step": "Cook pasta", "description": "Boil fettuccine pasta until al dente."},
+                    {"step": "Heat Alfredo sauce with garlic", "description": "Heat Alfredo sauce with minced garlic for extra flavor."},
+                    {"step": "Combine and garnish with cheese", "description": "Combine cooked pasta with chicken and garnish with Parmesan cheese."},
+                    {"step": "Enjoy a creamy delight", "description": "Enjoy a creamy and delicious chicken Alfredo."}
+                ],
+                "rating": 4.9
+            }
+        ]
+    }
+]

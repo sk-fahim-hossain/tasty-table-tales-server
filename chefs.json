@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Chef John Smith",
+      "rating": 4.9,
+      "img": "https://i.ibb.co/K25q9yf/chef-8.png"
+    },
+    {
+      "id": 2,
+      "name": "Chef Emily Johnson",
+      "rating": 4.8,
+      "img": "https://i.ibb.co/gDGfJk3/chef-7.png"
+    },
+    {
+      "id": 3,
+      "name": "Chef Antonio Rodriguez",
+      "rating": 4.7,
+      "img": "https://i.ibb.co/8gDLmTH/chef-6.png"
+    },
+    {
+      "id": 4,
+      "name": "Chef Sarah Lee",
+      "rating": 4.6,
+      "img": "https://i.ibb.co/gDxHLPw/chef-5.png"
+    },
+    {
+      "id": 5,
+      "name": "Chef Michael Brown",
+      "rating": 4.8,
+      "img": "https://i.ibb.co/cTkSrLr/chef-4.png"
+    },
+    {
+      "id": 6,
+      "name": "Chef Maria Garcia",
+      "rating": 4.9,
+      "img": "https://i.ibb.co/Y2z1x6f/chef-3.png"
+    },
+    {
+      "id": 7,
+      "name": "Chef David Wilson",
+      "rating": 4.7,
+      "img": "https://i.ibb.co/S5G9Bhx/chef-2.png"
+    },
+    {
+      "id": 8,
+      "name": "Chef Lisa Chen",
+      "rating": 4.5,
+      "img": "https://i.ibb.co/86wRRjX/chef-1.png"
+    }
+  ]
