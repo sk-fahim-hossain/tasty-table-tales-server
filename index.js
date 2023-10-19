@@ -5,12 +5,16 @@ const app = express()
 app.use(cors())
 const chefs = require('./chefs.json')
 const recipes = require('./recipes.json')
+const blogs = require('./blog.json')
 
 app.get('/', (req,res) =>{
     res.send('sending from server')
 })
 app.get('/chefs', (req,res) =>{
     res.send(chefs)
+})
+app.get('/blogs', (req,res) =>{
+    res.send(blogs)
 })
 app.get('/chefs/:id', (req,res) =>{
     const id = req.params.id;
